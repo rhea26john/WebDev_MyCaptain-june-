@@ -1,0 +1,16 @@
+
+    body{
+        background-color: aquamarine;
+    }
+    h1{ 
+        color:rgb(84, 24, 182);
+        font-type:monospace;
+        font-size: 40px;
+    }
+
+    p{
+        background-color: darkgrey;
+        color:rgb(40, 37, 190);
+        font-type:monospace;
+    }
+

@@ -1,0 +1,70 @@
+
+body{
+        background-color: aquamarine;
+    }
+    h1{ 
+        color:rgb(84, 24, 182);
+        font-type:monospace;
+        font-size: 40px;
+    }
+
+    p{
+        background-color: darkgrey;
+        color:rgb(40, 37, 190);
+        font-type:monospace;
+    }
+
+
+.bodyhome{
+    background-color:rgb(221, 50, 79);
+    font-size: 30px;
+}
+
+.h1home{
+    color:rgb(240, 214, 167);
+    font-family: monospace;
+}
+
+.h2home{
+    color:#d8c13d;
+    font-family: 'Times New Roman';
+}
+
+.bodyabout{
+    background-color: rgb(207, 110, 126);
+    font-size: 30px;
+    color:rgb(102, 7, 102);
+}
+
+.h1about{
+    color:rgb(18, 18, 211);
+}
+
+.bodysketch{
+    background-color: rgb(43, 41, 41);
+
+}
+.h1sketch{
+    color:oldlace;
+    font-family:monospace;
+}
+
+.bcontact{
+    background-color: rgb(182, 122, 132);   
+    font-family:Georgia;
+}
+
+.h3contact{
+    color:indigo;
+    font-family:Arial;
+}
+
+.imageresize{
+    height: 10cm;
+    width: 10cm;
+}
+
+.link{
+    color: rgb(202, 170, 238);
+    font-size: 30px;
+}
