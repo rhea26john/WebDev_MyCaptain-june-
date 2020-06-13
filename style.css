@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(122, 156, 230);
+}
+
+h1{
+    color: rgb(52, 129, 202);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.newton{
+    height:7cm;
+    width :7cm;
+}
+
+.einstien{
+    height:12cm;
+    width: 7cm;
+}
+
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    flex-shrink: 8;
+    flex-basis: 10cm;
+}
